@@ -3,7 +3,7 @@ import java.util.Scanner;
 class Conversation {
 public static void main(String[] args) { 
 
-  String[] cannedResponses = {"Yes", "Hmmm. Please tell me more news", "Of course", "Okay", "Interesting...", "Indeed"};
+  String[] cannedResponses = {"Yes", "Mmm-hmm", "Of course", "Okay", "Interesting..."};
   int cannedTimes = cannedResponses.length;
  
   Scanner inputRound = new Scanner(System.in);
